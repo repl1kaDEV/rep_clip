@@ -5,6 +5,8 @@ Feel free to share with friends!
 
 
 # SQL
+YOU CAN ALSO FIND THE SQL FILE UNDER rep_clip/rep_clip/magazin.sql
+
  INSERT INTO `items` (name, label, `limit`) VALUES
   ('clip','Magazin', 10)
  ;
